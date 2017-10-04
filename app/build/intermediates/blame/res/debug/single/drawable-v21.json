@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/vitorio/AndroidStudioProjects/JogoDaVelha2/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/vitorio/.android/build-cache/67a09b05f88c9630c2a827630d23bd5004c6ee56/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/vitorio/AndroidStudioProjects/JogoDaVelha2/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/vitorio/.android/build-cache/67a09b05f88c9630c2a827630d23bd5004c6ee56/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/vitorio/AndroidStudioProjects/JogoDaVelha2/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/vitorio/.android/build-cache/67a09b05f88c9630c2a827630d23bd5004c6ee56/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/vitorio/AndroidStudioProjects/JogoDaVelha2/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/vitorio/.android/build-cache/67a09b05f88c9630c2a827630d23bd5004c6ee56/output/res/drawable-v21/notification_action_background.xml"
+    }
+]

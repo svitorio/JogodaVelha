@@ -1,0 +1,7 @@
+#Tue Oct 03 09:57:20 BRT 2017
+base.0=/home/vitorio/AndroidStudioProjects/JogoDaVelha2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f568d6d4a8a5a2004de830b0a436a729b8d01662
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/vitorio/AndroidStudioProjects/JogoDaVelha2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c5645e6625fd6ad7f92caf8bfdcec421bca87cbb/classes.dex
+base.1=/home/vitorio/AndroidStudioProjects/JogoDaVelha2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c5645e6625fd6ad7f92caf8bfdcec421bca87cbb
+file.0=/home/vitorio/AndroidStudioProjects/JogoDaVelha2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f568d6d4a8a5a2004de830b0a436a729b8d01662/classes.dex

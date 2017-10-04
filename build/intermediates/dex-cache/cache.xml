@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/vitorio/.android/build-cache/3fee17766bbe25b54b47732f9f61ffbaa8db055e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/vitorio/AndroidStudioProjects/JogoDaVelha2/app/build/intermediates/pre-dexed/debug/classes_f98923cc6935872d0592f98189e5de747ad30671.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vitorio/.android/build-cache/67a09b05f88c9630c2a827630d23bd5004c6ee56/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/vitorio/AndroidStudioProjects/JogoDaVelha2/app/build/intermediates/pre-dexed/debug/classes_415a112823384c430b1d197f42a3c62bf333d89c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vitorio/.android/build-cache/3f8f445d36cf65169bc0d71b51a4c7c626755755/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/vitorio/AndroidStudioProjects/JogoDaVelha2/app/build/intermediates/pre-dexed/debug/classes_7584fdc9eb2730756203518f6ec735145184ee10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vitorio/.android/build-cache/ebe46a9d5d4865262ad34fc724424d1a2484b616/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/vitorio/AndroidStudioProjects/JogoDaVelha2/app/build/intermediates/pre-dexed/debug/classes_ee3fbd5ebb300f9913676d858439ae1c7340e666.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vitorio/.android/build-cache/f2ae00394b81b9726071568528ae5eb971a4c10b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/vitorio/AndroidStudioProjects/JogoDaVelha2/app/build/intermediates/pre-dexed/debug/classes_91bdc11253ac3b46f0769535ac5809624c436da2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vitorio/.android/build-cache/4251ad5dfbd7a25897e25b6b4f3c39cd4440276a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/vitorio/AndroidStudioProjects/JogoDaVelha2/app/build/intermediates/pre-dexed/debug/classes_d958923b74b6ff01215cbcb5eba600f33c1bc262.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vitorio/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/vitorio/AndroidStudioProjects/JogoDaVelha2/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_5fb747440d408202e322bf6934a998aeea32cd5c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vitorio/AndroidStudioProjects/JogoDaVelha2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b5acd87f7abffcbcca30bcb3365e7af9de25d5d5">
+        <dex dex="/home/vitorio/AndroidStudioProjects/JogoDaVelha2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c5645e6625fd6ad7f92caf8bfdcec421bca87cbb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vitorio/.android/build-cache/ef753dc9565514ccafa8c99f803bb4a396e4e4b3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/vitorio/AndroidStudioProjects/JogoDaVelha2/app/build/intermediates/pre-dexed/debug/classes_ff449c3fb3470c73eda45fd5d1b9351e927b5d69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vitorio/.android/build-cache/43313d0e264fb133e81c3a278100b4f8dbc841b6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/vitorio/AndroidStudioProjects/JogoDaVelha2/app/build/intermediates/pre-dexed/debug/classes_32957955f6d193ffaa898d10d547293b4b7ba391.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vitorio/AndroidStudioProjects/JogoDaVelha2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/vitorio/AndroidStudioProjects/JogoDaVelha2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f568d6d4a8a5a2004de830b0a436a729b8d01662/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vitorio/.android/build-cache/b7565f1107c6650d73c2928836cdb29d5415d51d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/vitorio/AndroidStudioProjects/JogoDaVelha2/app/build/intermediates/pre-dexed/debug/classes_6616a791250732cd4f7d785cc21c354c305963ad.jar" />
+    </item>
+
+</items>
