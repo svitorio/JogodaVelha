@@ -1,4 +1,3 @@
-ffddf
 <h1>Jogo da Velha Distribuído em Android.</h1>
 
 Este jogo faz parte de um projeto que foi desenvolvido para a disciplina de Sistemas Distribuidos, o projeto consiste em um jogo da velha distribuido utilizando Web Services e Arquitetura SOA, ou seja, os processos realizados na aplicação estão sendo executados em outras maquinas.
